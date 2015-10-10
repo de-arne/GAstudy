@@ -1,0 +1,45 @@
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #030609;
+    background: #F6F6F6;
+    border-top: 5px solid #222;
+    border-bottom: 5px solid #222;
+    margin: 30px;
+    padding: 50px;
+}
+
+h1,
+h2,
+h3{
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h1,
+nav{
+    text-align: center;
+}
+
+a,
+nav{
+    color: #05080C;
+    font-weight: bold;
+}
+
+p{
+    font-family: Georgia, serif;
+}
+
+img.alignright{
+    float: right;
+    margin: 0 0 20px 20px;
+    width: 180px;
+}
+
+img{
+    padding: 5px;
+    border: 1px solid #222;
+}
